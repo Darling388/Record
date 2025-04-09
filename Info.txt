@@ -1,3 +1,2 @@
 Nme: Bhoomik Singh
 Dept: Computer Science
-DOB: 15-07-2005
